@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Castro</h1>
 <h3 align="center">Currently I am a student passionate about programming. I'm from Mexico</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI")>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=litoz04" alt="litoz04" /></a> </p>
 
