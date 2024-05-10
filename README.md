@@ -2,7 +2,7 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Carlos Castro</h1>
 <h3 align="center">Currently I am a student passionate about programming.</h3>
-<img src="https://user-images.githubusercontent.com/83774380/210644443-1c9aaa40-5768-4102-a26e-99c1dcc1a5f0.pn" align="right" alt="Coding" width="320" height="300">
+<img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" align="right" alt="Coding" width="320" height="300">
 
 - 🔭 I’m currently Studying **Information technology engineering**
 
