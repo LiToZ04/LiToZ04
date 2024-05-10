@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Castro</h1>
 <h3 align="center">Currently I am a student passionate about programming. I'm from Mexico</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnIyNmlrd3E5amNycmtrMHo5bjNid3UzenB3N3hzZnUxanIzMWRmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" align="right" alt="Coding" width="350" height="300">
+
 - 🔭 I’m currently Studying **Information technology engineering**
 
 - 🌱 I’m currently learning **Angular and C#**
