@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)]
 <h1 align="center">Hi 👋, I'm Carlos Castro</h1>
 <h3 align="center">Currently I am a student passionate about programming.</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnIyNmlrd3E5amNycmtrMHo5bjNid3UzenB3N3hzZnUxanIzMWRmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" align="right" alt="Coding" width="320" height="300">
