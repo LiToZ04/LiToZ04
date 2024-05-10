@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **ccastrogaspar@gmail.com**
 
-- ⚡ Fun fact **I enjoy programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
