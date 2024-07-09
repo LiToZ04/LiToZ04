@@ -24,3 +24,56 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=litoz04&show_icons=true&locale=en&layout=compact" alt="litoz04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=litoz04&show_icons=true&locale=en" alt="litoz04" /></p>
+
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+      margin-top: 20px;
+    }
+    h3 {
+      text-align: center;
+      font-weight: normal;
+      color: #666;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+    .social-icons {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .social-icons a {
+      margin: 0 10px;
+    }
+    .languages-tools {
+      margin-top: 20px;
+    }
+    .languages-tools img {
+      margin: 5px;
+    }
+    @media (max-width: 768px) {
+      .container {
+        padding: 10px;
+      }
+      img {
+        float: none;
+        margin: 0 auto;
+      }
+    }
+  </style>
